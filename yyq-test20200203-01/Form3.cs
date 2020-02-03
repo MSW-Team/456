@@ -14,9 +14,11 @@ namespace yyq_test20200203_01
     {
         public string FristName {get; set;}
         public int y = 0;
+        public int x = 0;
         public Form3()
         {
             InitializeComponent();
         }
+        public double tr = 0.0f;
     }
 }
