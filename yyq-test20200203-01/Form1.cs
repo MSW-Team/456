@@ -12,9 +12,16 @@ namespace yyq_test20200203_01
 {
     public partial class Form1 : Form
     {
+        /// <summary>
+        /// abc
+        /// </summary>
+        public const int abc = 100;
         public Form1()
         {
             InitializeComponent();
+            
+            int a = 0;
+
         }
     }
 }
