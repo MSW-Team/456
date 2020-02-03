@@ -21,6 +21,7 @@ namespace yyq_test20200203_01
             InitializeComponent();
             
             int a = 0;
+            int x = 0;
 
         }
     }
