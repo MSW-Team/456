@@ -12,10 +12,8 @@ namespace yyq_test20200203_01
 {
     public partial class Form3 : Form
     {
-        public string Name
-        {
-            get;set;
-        }
+        public string FristName {get; set;}
+        public int y = 0;
         public Form3()
         {
             InitializeComponent();
