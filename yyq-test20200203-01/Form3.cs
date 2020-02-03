@@ -20,5 +20,8 @@ namespace yyq_test20200203_01
             InitializeComponent();
         }
         public double tr = 0.0f;
+
+
+        int fasfa = 0;
     }
 }
