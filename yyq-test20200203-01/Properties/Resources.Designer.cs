@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace yyq_test20200203_01.Properties {
+namespace yyq456.Properties {
     using System;
     
     

@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace yyq_test20200203_01
+namespace yyq456
 {
     public partial class Form3 : Form
     {

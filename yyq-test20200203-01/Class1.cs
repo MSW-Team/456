@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace yyq_test20200203_01
+namespace yyq456
 {
     class Class1
     {

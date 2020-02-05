@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace yyq_test20200203_01
+namespace yyq456
 {
     static class Program
     {

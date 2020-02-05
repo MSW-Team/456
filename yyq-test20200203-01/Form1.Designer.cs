@@ -1,4 +1,4 @@
-﻿namespace yyq_test20200203_01
+﻿namespace yyq456
 {
     partial class Form1
     {
@@ -35,7 +35,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::yyq_test20200203_01.Properties.Resources.LOGO120x120;
+            this.pictureBox1.Image = global::yyq456.Properties.Resources.LOGO120x120;
             this.pictureBox1.Location = new System.Drawing.Point(352, 178);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(80, 122);

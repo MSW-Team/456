@@ -1,4 +1,4 @@
-﻿namespace yyq_test20200203_01
+﻿namespace yyq456
 {
     partial class Form3
     {
