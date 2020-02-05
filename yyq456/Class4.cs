@@ -9,5 +9,6 @@ namespace yyq456
     class Class4
     {
         int b = 0;
+        int x = 0;
     }
 }
