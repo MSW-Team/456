@@ -19,7 +19,6 @@ namespace yyq_test20200203_01
             Application.Run(new Form1());
             Console.WriteLine("这是主分支");
             Console.WriteLine("这是第二个分支");
-            Console.WriteLine("叶毅璆");
         }
     }
 }
