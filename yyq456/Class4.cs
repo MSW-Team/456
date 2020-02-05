@@ -10,5 +10,6 @@ namespace yyq456
     {
         int b = 0;
         int y = 0;
+        int z = 0;
     }
 }
