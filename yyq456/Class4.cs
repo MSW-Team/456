@@ -9,7 +9,9 @@ namespace yyq456
     class Class4
     {
         int b = 0;
+        int x = 0;
         int y = 0;
         int z = 0;
+        int c = 0;
     }
 }
