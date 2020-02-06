@@ -13,5 +13,6 @@ namespace yyq456
         int y = 0;
         int z = 0;
         int c = 0;
+        int w = 1;
     }
 }
